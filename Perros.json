@@ -1,0 +1,132 @@
+[
+  {
+    "Name": "Bulldog inglés",
+    "Location": "Inglaterra",
+    "Details": "Aunque en apariencia son feroces, los Bulldog Inglés tiene un carácter que suele ser afectuoso y tranquilo. Se consideran una raza de perro muy fiel porque difícilmente cambian de dueño.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2017/01/animal-1484845_960_720.jpg",
+    "Size": "Mediano",
+    "Population": 10000,
+    "Latitude": -8.783195,
+    "Longitude": 34.508523
+  },
+  {
+    "Name": "Chow chow",
+    "Location": "China",
+    "Details": "Se cree que fue uno de los perros nativos utilizados como modelo para el perro de Foo, los guardianes tradicionales de piedra que se encuentran en frente de los templos y palacios budistas.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2016/12/ChowChow_hero.jpg",
+    "Size": "Mediano",
+    "Population": 23000,
+    "Latitude": 12.769013,
+    "Longitude": -85.602364
+  },
+  {
+    "Name": "Collie",
+    "Location": "Escocia",
+    "Details": "Collie hace referencia a muchas razas de perro, con origen en Escocia y el norte de Inglaterra.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2017/01/C3.jpg",
+     "Size": "Grande",
+    "Population": 12000,
+    "Latitude": 1.957709,
+    "Longitude": 37.297204
+  },
+  {
+    "Name": "Dalmata",
+    "Location": "Croacia",
+    "Details": "El dálmata es una raza canina que debe su nombre a la histórica región de Dalmacia. Su característica principal es su singular pelaje moteado de color negro, hígado o limón. Al nacer, las crías carecen de manchas, las cuales van apareciendo por todo su cuerpo durante el primer año de vida.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2016/12/25_shutterstock_26182564.jpg",
+    "Size": "Grande",
+    "Population": 11000,
+    "Latitude": -8.783195,
+    "Longitude": -55.491477
+  },
+  {
+    "Name": "Labrador",
+    "Location": "Cnada",
+    "Details": "Los labradores son una de las razas caninas más comunes, y también de las más útiles y de los mejores compañeros para el ser humano. Aparte de ser un perro ideal para la familia y para los niños, hogareño e inteligente.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2017/01/dog-1210559_960_720.jpg",
+    "Size": "Grande",
+    "Population": 19000,
+    "Latitude": -14.235004,
+    "Longitude": -51.92528
+  },
+  {
+    "Name": "Mastin Napolitano",
+    "Location": "Roma",
+    "Details": "El mastín napolitano tiene la fama de ser buen perro guardián. A pesar de su aspecto arisco e incluso feroz, si es entrenado y socializado desde temprana edad puede ser un perro pacífico, equilibrado, dulce, fiel, es muy afectuoso con el amo, amigo de los niños y con los amigos de casa y muy silencioso.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2017/01/eQ8Iugqr.png",
+    "Size": "Gigante",
+    "Population": 8000,
+    "Latitude": -8.783195,
+    "Longitude": -55.491477
+  },
+  {
+    "Name": "Pastor suizo",
+    "Location": "Suiza",
+    "Details": "El Pastor Blanco Suizo es un perro muy inteligente y que aprende con facilidad. Le gusta complacer a su familia, por lo que su adiestramiento resultará relativamente fácil.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2017/02/perro-pastor-blanco-suizo-.jpg",
+    "Size": "Gigante",
+    "Population": 1000,
+    "Latitude": 36.204824,
+    "Longitude": 138.252924
+  },
+  {
+    "Name": "Poodle",
+    "Location": "Francia, Rusia y Alemania",
+    "Details": "Los poodles son excelentes compañeros de vida, viven alrededor de 17 años. Es un buen perro de familia, aman compartir con los humanos y que los mimen todo el tiempo.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2016/11/perro-poodle-adoptar-un-poodle-juego-socializacion.jpg",
+    "Size": "Mediano",
+    "Population": 17000,
+    "Latitude": 7.369722,
+    "Longitude": 12.354722
+  },
+  {
+    "Name": "San Bernardo",
+    "Location": "Norte de Italia",
+    "Details": "Es el perro boyero más famoso junto con el mastín del Pirineo y es muy próximo al gran boyero suizo. Desciende del extinto mastín de los Alpes, que se mezcló con otras razas como el dogo del Tíbet, el terranova y el gran danés.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2017/01/dog-1905916_960_720.jpg",
+    "Size": "Gigante",
+    "Population": 15000,
+    "Latitude": 0.961883,
+    "Longitude": 114.55485
+  },
+  {
+    "Name": "Xolo",
+    "Location": "Mexico",
+    "Details": "El xoloitzcuintle o xoloitzcuintli y castellanizado como xoloescuincle es una raza canina prácticamente sin pelo con promedio de vida entre 12-14 años.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2017/02/xoloitzcuintle-4.jpg",
+    "Size": "Mediano",
+    "Population": 1,
+    "Latitude": 47.606209,
+    "Longitude": -122.332071
+  },
+  {
+    "Name": "Terranova",
+    "Location": "Isla Newfoundland",
+    "Details": "El Terranova suele describirse como un gigante bonachón. Tanto su estructura ósea como su pelaje son grandes y pesados. De cachorro, parece un osito de peluche, pero esta etapa no dura mucho tiempo, ya que crece muy rápido.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2017/05/am_79226_5868111_342288.jpg",
+    "Size": "Mediano",
+    "Population": 1,
+    "Latitude": 33.448377,
+    "Longitude": -112.074037
+  },
+  {
+    "Name": "Whipped",
+    "Location": "Inglaterra",
+    "Details": "El Whippet es una raza de perro de origen británico, esbelto y de porte elegante. Son perros activos y juguetones, similares físicamente al galgo inglés, pero de tamaño mediano.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2017/05/Whippet3-800x400.jpg",
+    "Size": "Mediano",
+    "Population": 1300,
+    "Latitude": 16.111648,
+    "Longitude": 108.262122
+  },
+  {
+    "Name": "Sussex",
+    "Location": "Inglaterra",
+    "Details": "El Sussex Spaniel es una raza de perro que pertenece a la familia de los Spaniels, y dentro de esta a la Sección 7.",
+    "Image": "https://www.dogalize.com/wp-content/uploads/2017/05/Sussex_Spaniel.jpg",
+    "Size": "Pequeño",
+    "Population": 1,
+    "Latitude": 47.608013,
+    "Longitude": -122.335167
+  }
+]
